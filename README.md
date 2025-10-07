@@ -1,2 +1,2 @@
 # PatchTST-LSTM
-Hybrid music generation architecture
+Hybrid music generation
